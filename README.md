@@ -37,10 +37,9 @@ Manager login credential     : username ---->manager
 
 
 **extra**      
-	   ----> Used bind values for php
-    
+	   
+           ----> Used bind values for php
 		(The bindValue method is used to bind a value to a parameter in a prepared statement. This helps prevent SQL injection   attacks by ensuring that the values are properly escaped.)
-    
            ----> Used Session management 
 
 
